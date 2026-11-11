@@ -1,0 +1,7 @@
+# Configuração local do Claude Code (não faz parte do projeto entregue)
+.claude/
+
+# Lixo comum de SO/editor
+.DS_Store
+Thumbs.db
+*.swp
