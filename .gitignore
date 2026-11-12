@@ -5,3 +5,6 @@
 .DS_Store
 Thumbs.db
 *.swp
+
+# APK gerado (entregue separadamente, não precisa ir pro histórico do git)
+/dist/

@@ -55,6 +55,14 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^6.0.0
+  # Gera o ícone do app (launcher) nas várias densidades a partir de uma
+  # única imagem — usado só em tempo de desenvolvimento, via
+  # `dart run flutter_launcher_icons`.
+  flutter_launcher_icons: ^0.14.3
+
+flutter_launcher_icons:
+  android: true
+  image_path: "assets_icon_source.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
